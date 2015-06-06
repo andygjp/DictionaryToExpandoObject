@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryToExpandoObject", "DictionaryToExpandoObject\DictionaryToExpandoObject.csproj", "{B99FE76B-BBAD-47F9-B821-BB6D10ED1516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryToExpandoObject.UnitTests", "DictionaryToExpandoObject.UnitTests\DictionaryToExpandoObject.UnitTests.csproj", "{CD3FF224-5D09-4F98-B26C-E70A08FAF75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99FE76B-BBAD-47F9-B821-BB6D10ED1516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99FE76B-BBAD-47F9-B821-BB6D10ED1516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99FE76B-BBAD-47F9-B821-BB6D10ED1516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99FE76B-BBAD-47F9-B821-BB6D10ED1516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3FF224-5D09-4F98-B26C-E70A08FAF75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3FF224-5D09-4F98-B26C-E70A08FAF75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3FF224-5D09-4F98-B26C-E70A08FAF75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3FF224-5D09-4F98-B26C-E70A08FAF75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
