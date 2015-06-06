@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>DictionaryToExpandoObject</id>
+        <version>1.0.0</version>
+        <authors>Andrew Pattison</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Takes a dictionary and recursively builds an ExpandoObject.</description>
+    </metadata>
+    <files>
+        <file src="bin\Release\DictionaryToExpandoObject.dll" target="lib\DictionaryToExpandoObject.dll" />
+    </files>
+</package>
